@@ -9,7 +9,8 @@
 </div>
 <h2>Imagens do Projeto.</h2>
 <h3>Em formato Celular</h3>
-<img src="">
+<img src="https://github.com/ArthurFzB/We-Care---Site-Pet/blob/master/img/1.png?raw=true">
 <br>
 <h3>Em formato Desktop</h3>
-<img src="">
+<img src="https://github.com/ArthurFzB/We-Care---Site-Pet/blob/master/img/2.png?raw=true">
+
