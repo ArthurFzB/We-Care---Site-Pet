@@ -1,4 +1,4 @@
-<h1>Easy Shopping</h1>
+<h1>We Care</h1>
 <br>
 <br>
 <h2>Projeto Criado em forma de aprendizado. </h2>
@@ -9,7 +9,7 @@
 </div>
 <h2>Imagens do Projeto.</h2>
 <h3>Em formato Celular</h3>
-<img src="https://github.com/ArthurFzB/We-Care---Site-Pet/blob/master/img/1.png?raw=true">
+<img src="">
 <br>
 <h3>Em formato Desktop</h3>
-<img src="https://github.com/ArthurFzB/We-Care---Site-Pet/blob/master/img/2.png?raw=true">
+<img src="">
